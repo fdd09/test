@@ -1,0 +1,14 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+           {
+             "appID": "NCNJT9VPK3.com.liulishuo.sprout",
+             "paths": [ "/sprout/*" ]
+           }
+       ]
+   },
+   "webcredentials": {
+      "apps": [ "NCNJT9VPK3.com.liulishuo.sprout" ]
+   }
+}
